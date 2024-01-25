@@ -1,0 +1,4 @@
+- Capitalize SQL [[Keywords]]
+- Don't technically need the ';', but you should so the system knows when a [[Query]] is done
+- Whitespace generally doesn't matter in SQL  
+	- (except in strings)  

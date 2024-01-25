@@ -1,0 +1,6 @@
+- We mostly use relational databases now
+- NoSQL databases are growing in popularity
+	- Out of scope, will see in 480
+	- Difference is unstructured
+	- MongoDB is free "Don't drink the Kool-aid"
+	- 
