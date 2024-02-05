@@ -1,0 +1,8 @@
+- Removes duplicates from results
+- [[SELECT]] DISTINCT
+- Can be used with [[Aggregates]]
+	- [[COUNT()]]
+	- Min/ Max
+	- [[AVG]]
+	- etc...
+- DISTINCT operates on a single column. DISTINCT for multiple columns is not supported.

@@ -1,0 +1,8 @@
+- [[SELECT]] column-names
+- [[FROM]] table-name 
+- [[WHERE]] condition 
+- [[GROUP BY]] column-names 
+- [[HAVING]] condition 
+- [[ORDER BY]] column-names 
+- [[LIMIT]] max-rows 
+- ;

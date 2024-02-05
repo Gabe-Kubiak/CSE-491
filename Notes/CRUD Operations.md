@@ -1,0 +1,10 @@
+- Four fundamental operations:
+	- Create
+	- Read
+	- Update
+	- Delete
+- Tie to
+	- [[SELECT]]
+	- [[INSERT]]
+	- [[UPDATE]]
+	- [[DELETE]]

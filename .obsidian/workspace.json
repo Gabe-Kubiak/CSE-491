@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IS &IS NOT.md",
+                "file": "Notes By Day/1.30.24.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb3acf43d0fa25cb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IS &IS NOT.md",
+                "file": "Notes By Day/1.30.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IS &IS NOT.md",
+                "file": "Notes By Day/1.30.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IS &IS NOT.md"
+                "file": "Notes By Day/1.30.24.md"
               }
             }
           }
@@ -146,38 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9caa6682ddabc25",
+  "active": "bb3acf43d0fa25cb",
   "lastOpenFiles": [
-    "Notes By Day/1.23.24.md",
-    "Notes/BETWEEN.md",
-    "Notes/JOIN.md",
-    "Notes/CROSS JOIN.md",
-    "Notes/INNER JOIN.md",
-    "Notes/LEFT OUTER JOIN.md",
-    "Notes/SQL Alias.md",
-    "Notes/Primary Keys.md",
-    "Notes/NOT NULL.md",
-    "Notes/Column Constraints.md",
-    "Notes/Logical Operators.md",
-    "Notes/SQL Data Types.md",
-    "Notes/SQL Operators.md",
-    "Notes/WHERE.md",
-    "Notes/Review thru 1.16.23.md",
-    "Notes/Relations.md",
-    "Notes By Day/1.16.24.md",
-    "Notes/NULL.md",
+    "Notes By Day/1.25.24.md",
+    "Notes By Day/1.30.24.md",
+    "Notes By Day/2.1.24.md",
+    "Slides/2-1-slides.pdf",
+    "Slides/2-1slides.pdf.md",
+    "Slides/1-30-slides.pdf",
+    "Slides/1-25-slides.pdf",
+    "Notes/Example Code.md",
+    "Notes/Cursor.md",
+    "Notes/Parameterized Queries.md",
+    "Notes/Screen Snips/Pasted image 20240130111436.png",
+    "Notes/SELECT ANY and Qualified Tables.md",
+    "Notes/FOREIGN KEY.md",
+    "Notes/Misc. Table Operations.md",
+    "Notes/AUTOINCREMENT.md",
+    "Notes/DELETE.md",
+    "Notes/UPDATE.md",
+    "Notes/INSERT INTO SELECT.md",
+    "Notes/INSERT INTO.md",
+    "Notes/CRUD Operations.md",
+    "Notes/Parts of SELECT query.md",
+    "Notes/HAVING.md",
+    "Notes/GROUP BY.md",
+    "Notes/DISTINCT.md",
+    "Notes/Subqueries.md",
+    "Notes/SELECT.md",
     "Notes/Basic SQL Querying.md",
-    "Notes/IN.md",
-    "Notes/LIKE.md",
+    "Notes/UNION ALL.md",
+    "Notes/UNION.md",
+    "Slides/1-16-slides.pdf",
+    "Slides/1-23-slides.pdf",
     "Notes/Screen Snips/Pasted image 20240123105521.png",
     "Notes/Screen Snips/Pasted image 20240123105516.png",
     "Notes/Screen Snips/Pasted image 20240123105504.png",
     "Notes/Screen Snips/Pasted image 20240123105441.png",
-    "Notes/COUNT().md",
-    "Notes/AND & OR.md",
-    "Notes/IS &IS NOT.md",
-    "Notes/Data Models.md",
-    "Notes/Real.md",
     "Examples",
     "Notes/Screen Snips/Pasted image 20240116103437.png",
     "Slides/1-11-slides.pdf",
@@ -185,10 +199,6 @@
     "Notes",
     "Notes/Screen Snips/Pasted image 20240111105728.png",
     "Notes/Screen Snips/Pasted image 20240111104109.png",
-    "Slides/1-9-slides.pdf",
-    "Notes/Screen Snips/ss24-cse491-syllabus.pdf",
-    "Slides/ss24-cse491-syllabus.pdf",
-    "Slides",
-    "Notes By Day"
+    "Slides/1-9-slides.pdf"
   ]
 }
